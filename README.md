@@ -1,7 +1,7 @@
 ### Projeto TODO-List
 
 ## Avaliação do escopo e Apresentação
-[![Apresentacao Projeto ToDo List](https://img.youtube.com/vi/https://youtu.be/G68ZAagf574/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/G68ZAagf574)
+[![Apresentacao Projeto ToDo List](https://img.youtube.com/vi/G68ZAagf574/0.jpg)](https://youtu.be/G68ZAagf574)
 
 O projeto consiste em uma API que permite que as pessoas criem e compartilhem listas de forma direta e simples. Além disso permite que outras pessoas contribuam com essas listas adicionando items.
 
